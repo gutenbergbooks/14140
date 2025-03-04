@@ -1,4 +1,33 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 14140 ***
+﻿The Project Gutenberg EBook of Plutarch's Lives Volume III., by Plutarch
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Plutarch's Lives Volume III.
+
+Author: Plutarch
+
+Release Date: November 24, 2004 [EBook #14140]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PLUTARCH'S LIVES VOLUME III. ***
+
+
+
+
+Produced by Jonathan Ingram, Stephen Schulze and the PG Online
+Distributed Proofreading Team.
+
+
+
+
+
 
 PLUTARCH'S LIVES.
 
@@ -321,7 +350,7 @@ garrisoned by Æginetans, whom he brought prisoners to Athens.
 
 VII. Now when Demosthenes threw up a fortification at Pylos, and after
 the Peloponnesians had attacked him by sea and by land, some four
-hundred Spartans were left on the island of Sphakteria, the Athenians
+hundred Spartans wore left on the island of Sphakteria, the Athenians
 thought that it was a matter of great importance, as indeed it was, to
 take them prisoners. Yet, as it proved laborious and difficult to
 blockade them on the island, because the place was desert and
@@ -2739,7 +2768,7 @@ Another Licinia, a Vestal, had broken her vow, and was punished B.C.
 35.]
 
 [Footnote 9: This may hardly be a correct translation of [Greek:
-argurognômonas] ἀργυρογνωμόνας: but it is something like the meaning.]
+argurognômonas] ἀργυρογνωμόνας: but it is something like the meaning.]
 
 [Footnote 10: King Archidamus of Sparta, the second of the name, who
 commanded the Peloponnesian war, B.C. 431. Plutarch (Life of
@@ -2766,7 +2795,7 @@ called Nomenclator. If the nomenclator's memory ever failed him, he
 would not let his master know it: he gave a person any name that came
 into his head.]
 
-[Footnote 13: The Greek is [Greek: stegastrou] στέγαστρου, 'something
+[Footnote 13: The Greek is [Greek: stegastrou] στέγαστρου, 'something
 that covers;' but whether cloak or hat, or covered couch, or sedan,
 the learned have not yet determined.]
 
@@ -2782,18 +2811,18 @@ their lives: the circumstances are stated somewhat differently by
 different writers. (Florius, iii. 21; Appian, _Civil Wars_, i. 72.)
 
 Drumann correctly remarks that Plutarch and other Greek writers often
-use the word [Greek: stratêgos] στρατηγός simply to signify one who
+use the word [Greek: stratêgos] στρατηγός simply to signify one who
 has command, and that [Greek: stratêgos] is incorrectly rendered
 'Prætor' by those who write in Latin, when they make use of the Greek
-historians of Rome. But Plutarch's [Greek: stratêgos] στρατηγός
+historians of Rome. But Plutarch's [Greek: stratêgos] στρατηγός
 sometimes means prætor, and it is the word by which he denotes that
 office; he probably does sometimes mean to say 'prætor,' when the man
-of whom he speaks was not prætor. Whether [Greek: stratêgos] στρατηγός
+of whom he speaks was not prætor. Whether [Greek: stratêgos] στρατηγός
 in Plutarch is always translated prætor or always Commander, there
 will be error. To translate it correctly in all cases, a man must know
 whether the person spoken of was prætor or not; and that cannot always
 be ascertained. But besides this, the word 'Commander' will not do,
-for Plutarch sometimes calls a Proconsul [Greek: stratêgos] στρατηγός,
+for Plutarch sometimes calls a Proconsul [Greek: stratêgos] στρατηγός,
 and a Proconsul had not merely a command: he had a government also.]
 
 [Footnote 16: So the name is written by Sintenis, who writes it
@@ -2808,7 +2837,7 @@ place B.C. 85, for he remained eight months in Spain and returned to
 Rome on the news of Cinna's death, B.C. 84.]
 
 [Footnote 17: The MSS. have [Greek: auran] αὖραν, 'breeze,' which
-Coræs ingeniously corrected to [Greek: laupan] λαύπαν, 'path,' which
+Coræs ingeniously corrected to [Greek: laupan] λαύπαν, 'path,' which
 is undoubtedly right.]
 
 [Footnote 18: If Fenestella died in A.D. 19 at the age of seventy, as
@@ -2879,7 +2908,7 @@ Clodianus B.C. 72.]
 
 [Footnote 32: This was C. Cassius Longinus Verus, proconsul of Gaul
 upon the Po (see c. 8). Plutarch calls him [Greek: stratêgos]
-στρατηγός. Appian (_Civil Wars_, i. 117) says that one of the consuls
+στρατηγός. Appian (_Civil Wars_, i. 117) says that one of the consuls
 defeated Crixus, who was at the head of 30,000 men, near Garganus,
 that Spartacus afterwards defeated both the consuls, and meditated
 advancing upon Rome with 120,000 foot soldiers. Spartacus sacrificed
@@ -3004,7 +3033,7 @@ quarrel between Pompeius and Cæsar, he joined Pompeius, and after
 various adventures finally he lost his life in the battle of Pharsalus
 B.C. 48.]
 
-[Footnote 50: The first 'house' ([Greek: oikia] οἰκία) is evidently
+[Footnote 50: The first 'house' ([Greek: oikia] οἰκία) is evidently
 the house of Domitius. The second house ([Greek: oikêma] οἴκημα),
 which may be more properly rendered 'chamber,' may, as Sintenis says,
 mean the Senate-house, if the reading is right. Kaltwasser takes the
@@ -3188,7 +3217,7 @@ Greek writers) were what we call the colours.
 man Augarus. See the note of Reimarus.]
 
 [Footnote 68: This is the translation of Plutarch's word [Greek:
-pelatês] πελάτης, which word [Greek: pelatês] πελάτης is used by the
+pelatês] πελάτης, which word [Greek: pelatês] πελάτης is used by the
 Greek writers on Roman history to express the Latin Cliens. It is not
 here supposed that Parthian clients were the same as Roman clients;
 but as Plutarch uses the word to express a certain condition among the
@@ -3214,10 +3243,10 @@ Belias.]
 [Footnote 71: Plutarch seems to mean something like drums furnished
 with bells or rattles; but his description is not very clear, and the
 passage may be rendered somewhat differently from what I have rendered
-it: "but they have instruments to beat upon ([Greek: rhoptra] ῥόπτρα),
+it: "but they have instruments to beat upon ([Greek: rhoptra] ῥόπτρα),
 made of skin, and hollow, which they stretch round brass sounders"
-([Greek: êcheiois] ἠχείοις, whatever the word may mean here). The word
-[Greek: rhoptron] ῥόπτρον properly means a thing to strike with; but
+([Greek: êcheiois] ἠχείοις, whatever the word may mean here). The word
+[Greek: rhoptron] ῥόπτρον properly means a thing to strike with; but
 it seems to have another meaning here. (See Passow's _Greek Lexicon_.)
 The context seems to show that a drum is meant.]
 
@@ -3248,9 +3277,9 @@ the father and son, it will be removed by reading carefully. I have
 chosen to translate Plutarch, not to mend him.]
 
 [Footnote 76: The reading of this passage in Appian (_Parthica_, c.
-29) is [Greek: telmasin entuchontes] τέλμασιν ἐντυχόντες, which
+29) is [Greek: telmasin entuchontes] τέλμασιν ἐντυχόντες, which
 Sintenis has adopted. The common reading is [Greek: suntagmasin
-entuchontes] συντάγμασιν ἐντυχόντες, which various critics variously
+entuchontes] συντάγμασιν ἐντυχόντες, which various critics variously
 explain.]
 
 [Footnote 77: In the old Latin translation of Guarini, the name Cn.
@@ -3369,7 +3398,7 @@ The passage which is cited is from the Bacchæ of Euripides, v. 1168,
 ed. Elmsley. The exact meaning of the word [Greek: helika] ἕλικα in
 the passage is uncertain. See Elmsley's note.]
 
-[Footnote 96: The word is Exodium ([Greek: exodion] ἐξόδιον), a kind
+[Footnote 96: The word is Exodium ([Greek: exodion] ἐξόδιον), a kind
 of entertainment common among the Romans, though it is a Greek word.
 Plutarch means that this exhibition before the kings was like the
 farce which is acted after a tragedy. It seems as if Jason was first
@@ -3395,7 +3424,7 @@ soldiers, eagles, and standards which had been taken by Crassus; an
 event which is commemorated by extant medals, and was recorded by
 Augustus among his other exploits in the Monumentum Ancyranum.]
 
-[Footnote 99: This is the Greek word ([Greek: akoniton] ὰκόνιτον): the
+[Footnote 99: This is the Greek word ([Greek: akoniton] ὰκόνιτον): the
 same name is now given to Monkshood or Wolfsbane, a genus of
 Ranunculaceae. Aconite is now used as a medicine; "The best forms are
 either an alcoholic extract of the leaves, or an alcoholic tincture of
@@ -4506,18 +4535,18 @@ old age, in some barbarian village, in poverty and contempt.
 FOOTNOTES:
 
 [Footnote 101: If this is obscure, the fault is Plutarch's. His word
-for Fortune is [Greek: tuchê] τύχη which he has often used in the Life
+for Fortune is [Greek: tuchê] τύχη which he has often used in the Life
 of Sulla. The word for Spontaneity is [Greek: to automaton] τὸ
-αὐτόματον, the Self-moved. The word for Elemental things is [Greek: ta
-hupokeimena] τὰ ὑποκειμένα. The word [Greek: hupokeimenon] ὑποκειμένον
+αὐτόματον, the Self-moved. The word for Elemental things is [Greek: ta
+hupokeimena] τὰ ὑποκειμένα. The word [Greek: hupokeimenon] ὑποκειμένον
 is used by Aristotle to signify both the thing of which something is
 predicated, the Subject of grammarians, and for the Substance, which
 is as it were the substratum on which actions operate. Aristotle
-(_Metaphys._ vi. vii. 3) says "Essence ([Greek: ousia] οὐσία) or Being
+(_Metaphys._ vi. vii. 3) says "Essence ([Greek: ousia] οὐσία) or Being
 is predicated, if not in many ways, in four at least; for the formal
 cause ([Greek: to ti ên einai] τὸ τὶ ἦν εἶναι), and the universal, and
 genus appear to be the essence of everything; and the fourth of these
-is the Substance ([Greek: to hupokeimenon] τὸ ὑποκειμένον). And the
+is the Substance ([Greek: to hupokeimenon] τὸ ὑποκειμένον). And the
 Substance is that of which the rest are predicated, but it is not
 predicated of any other thing. And Essence seems to be especially the
 first Substance; and such, in a manner, matter ([Greek: hulê] ὕλη) is
@@ -4531,8 +4560,8 @@ edition of Aristotle _On the Soul_, i. 1, § 2. It is not my business
 to explain Aristotle, but to give some clue to the meaning of
 Plutarch.
 
-The word "accidentally" ([Greek: kata tuchên] κατὰ τύχην) is opposed
-to "forethought" ([Greek: pronoia] προνοία), "design," "providence."
+The word "accidentally" ([Greek: kata tuchên] κατὰ τύχην) is opposed
+to "forethought" ([Greek: pronoia] προνοία), "design," "providence."
 How Plutarch conceived Fortune, I do not know; nor do I know what
 Fortune and Chance mean in any language. But the nature of the
 contrast which he intends is sufficiently clear for his purpose.]
@@ -4556,11 +4585,11 @@ Tib. Gracchus, c. 1, Notes.]
 
 [Footnote 104: Ios, a small island of the Grecian Archipelago, now
 Nio, is mentioned among the places where Homer was buried. The name
-Ios resembles that of the Greek word for violet, ([Greek: ion] ίον).
+Ios resembles that of the Greek word for violet, ([Greek: ion] ίον).
 Smyrna, one of the members of the Ionian confederation, is mentioned
 among the birth places of Homer. It was an accident that the name of
 the town Smyrna was the same as the name for myrrh, _Smyrna_ ([Greek:
-smurnê] σμύρνη),x which was not a Greek word. Herodotus (iii. 112)
+smurnê] σμύρνη),x which was not a Greek word. Herodotus (iii. 112)
 says that it was the Arabians who procured myrrh.]
 
 [Footnote 105: This Philippus was the father of Alexander the Great.
@@ -4604,7 +4633,7 @@ as one of his authorities. Didius is mentioned by Cicero, _Pro Cn.
 Plancio_, c. 25; and by Frontinus, i. 8. 5; ii. 10. 1; and by Appian
 (_Iberica_, c. 99). The passage in the text should be translated, "he
 was sent out under Didius as commander, and wintered in Iberia, in
-Castlo," &c. Plutarch has used the word [Greek: stratêgos] στρατηγός,
+Castlo," &c. Plutarch has used the word [Greek: stratêgos] στρατηγός,
 which means prætor; but to make the statement correct, we must
 translate it Proconsul, or commander. See Life of Crassus, c. 4,
 Notes.]
@@ -4745,7 +4774,7 @@ he has said so much on this matter in honour of Juba.]
 word dæmon, which is the best way of enabling the reader to judge of
 the meaning; of the text. If the word "dæmon" is here translated
 "fortune," it may mislead. A like construction to the words [Greek: tô
-daimoni summetabalein to êthos] τῶ δαιμόνι συμμεταβαλεῖν τὸ ἧθος
+daimoni summetabalein to êthos] τῶ δαιμόνι συμμεταβαλεῖν τὸ ἧθος
 occurs in the Life of Lucullus, c. 39. The meaning of the whole
 passage must be considered with reference to the sense of dæmon, which
 is explained in the notes of the Life of Sulla, c. 6.]
@@ -4821,7 +4850,7 @@ the British Museum in Smith's 'Dict. of Greek and Roman Antiquities.'
 Kaltwasser refers to Plutarch's Life of Romulus, c. 20, and his 'Roman
 Questions,' Part 3, in which he explains what the Bulla is.]
 
-[Footnote 146: The Greek word [Greek: kataspeisis] κατάσπεισις
+[Footnote 146: The Greek word [Greek: kataspeisis] κατάσπεισις
 signifies a "pouring out." Kaltwasser refers to a passage in Cæsar's
 'Gallic War,' iii. 22, in which he speaks of the "devoted" (devoti),
 whom the Aquitani called Soldurii. As the Aquitani bordered on the
@@ -4860,7 +4889,7 @@ Alcalá de Henarea. But all this is merely conjecture.]
 the Sucro river, the modern Xucar. There was also a town Sucro near
 the mouth of the Sucro. Appian (_Civil Wars_, i. 109) says that when
 the city was captured, a soldier attempted violence on a woman
-([Greek: para phusin] παρὰ φύσιν), who tore out his eyes with her
+([Greek: para phusin] παρὰ φύσιν), who tore out his eyes with her
 fingers. Sertorius, who knew that the whole cohort was addicted to
 infamous practices, put them all to death though they were Romans.
 Frontinus (_Stratagem._ ii. 5) has a long account of this affair at
@@ -5487,7 +5516,7 @@ Antigenes and Teutamus, on receiving these orders, received Eumenes
 with all outward manifestations of friendship, but were really full of
 concealed rage at being superseded by him. He, however, judiciously
 allayed their wrath by refusing to take the money, which he said he
-did not need, while as they were both unwilling to obey and unable to
+did not need, while as they wore both unwilling to obey and unable to
 command, he called in the aid of superstition, and declared that
 Alexander himself had appeared to him in a dream, as when alive,
 arrayed in the ensigns of royalty, seated in his tent, and despatching
@@ -7279,7 +7308,7 @@ centuries later.]
 [Footnote 178: The Greek word here translated "guest" is explained by
 Liddell and Scott, s.v., to mean "any person in a foreign city with
 whom one has a treaty of hospitality for self and heirs, confirmed by
-mutual presents and an appeal to [Greek: Zeus xenios] Ζεὺς ξένιος."]
+mutual presents and an appeal to [Greek: Zeus xenios] Ζεὺς ξένιος."]
 
 [Footnote 179: He sought to compose the dissensions and misrule which
 had arisen out of the Lysandrian Dekarchies, or governments of ten, in
@@ -10055,8 +10084,8 @@ villa and interred there.
 FOOTNOTES:
 
 [Footnote 189: This line is from the Prometheus Loosed ([Greek:
-luomenos] λυόμενος) of Aeschylus which is lost. Prometheus Bound
-([Greek: desmôtês] δεσμώτης) is extant. Hermann is of opinion that the
+luomenos] λυόμενος) of Aeschylus which is lost. Prometheus Bound
+([Greek: desmôtês] δεσμώτης) is extant. Hermann is of opinion that the
 Prometheus Loosed did not belong to the same Tetralogy as the
 Prometheus Bound.]
 
@@ -10082,8 +10111,8 @@ Cæsar, was a distinguished orator.]
 about the meaning of this passage, which Kaltwasser has mistranslated.
 It is rightly explained in Schaefer's note, and the learned Lambinus
 has fully expounded it in a note on Horatius (_Od._ i. 13): but in
-place of [Greek: adêktos] ἀδήκτος he has a wrong reading [Greek:
-adêkto] ἀδήκτο. Flora was not the only courtesan who received the
+place of [Greek: adêktos] ἀδήκτος he has a wrong reading [Greek:
+adêkto] ἀδήκτο. Flora was not the only courtesan who received the
 distinction mentioned in the text. The gilded statue of Phryne, the
 work of Praxiteles, was placed in the temple at Delphi, presented by
 the lady herself. (Pausanias, x. 15).]
@@ -10233,7 +10262,7 @@ by c. 22.]
 consulship of M. Æmilius Lepidus and Q. Lutatius Catulus, B.C. 78.]
 
 [Footnote 220: This is the Roman expression, which Plutarch has
-rendered by [Greek: hoi aristoi] οἱ άριστοι. Compare Life of Tib.
+rendered by [Greek: hoi aristoi] οἱ άριστοι. Compare Life of Tib.
 Gracchus, c. 10.]
 
 [Footnote 221: On the site of Modena. The events of the consulship of
@@ -10334,8 +10363,8 @@ Misenum, and it is not improbable that he alludes to M. Antonius
 Creticus, prætor B.C. 75. If this explanation is correct, the Antonia
 was the grand-daughter of the orator Antonius.]
 
-[Footnote 233: [Greek: stulides] στυλίδες. The meaning of this word is
-uncertain. [Greek: Stulis] Στυλίς is a diminutive of [Greek: stulos]
+[Footnote 233: [Greek: stulides] στυλίδες. The meaning of this word is
+uncertain. [Greek: Stulis] Στυλίς is a diminutive of [Greek: stulos]
 στῦλος, and signifies a small pillar, or pole. It may be that which
 carried the colours. But I do not profess to have translated the word,
 for I do not know what is meant.]
@@ -10378,9 +10407,9 @@ separate seats at the theatre. (Velleius, ii. 32; Dion Cassius, 36, c.
 
 [Footnote 240: Compare the Life of Flaminiaus, c. 10.]
 
-[Footnote 241: [Greek: ekomizen] ἐκόμιζεν in the text. The reading is
+[Footnote 241: [Greek: ekomizen] ἐκόμιζεν in the text. The reading is
 perhaps wrong, and the sense is doubtful. Reiske conjectured that it
-should be [Greek: ekolaze] ἐκόλαζε.]
+should be [Greek: ekolaze] ἐκόλαζε.]
 
 [Footnote 242: This place is on the coast of the Rough or Mountainous
 Cilicia, on a steep rock near the sea. (Strabo, p. 668; Beaufort's
@@ -10517,7 +10546,7 @@ Alazonius, which was the boundary between Iberia and Albania, The Abas
 is mentioned by Dion Cassius, 37. c. 3.]
 
 [Footnote 271: [Greek: epi tên tou thôrakos epiptuchên] ἐπὶ τὴν τοῦ
-θώρακος ἐπιπτυχήν Apparently some part of the coat of mail where there
+θώρακος ἐπιπτυχήν Apparently some part of the coat of mail where there
 was a fold to allow of the motion of the body. As to the battle see
 Dion Cassius, 37. c. 3, &c.]
 
@@ -10580,7 +10609,7 @@ preceding chapter without there giving it a name; the Symphorium of
 Dion. It was on the river Lycus, not quite 200 stadia from Cabira
 (Strabo, 556), and was an impregnable place.]
 
-[Footnote 277: [Greek: Hupomnêmata] Ὑπομνήματα: probably written in
+[Footnote 277: [Greek: Hupomnêmata] Ὑπομνήματα: probably written in
 Greek, with which Mithridates was well acquainted. These valuable
 memoirs were used by Theophanes in his history of the campaigns of
 Pompeius. Theophanes was a native of Mitylene in Lesbos and
@@ -10630,7 +10659,7 @@ translated by Kaltwasser. But the Red Sea was called the Arabian Gulf
 by Herodotus. However, the term Erythræan Sea was sometimes used with
 no great accuracy, and appears to have comprehended the Red Sea, which
 is a translation of the term Erythræan, as the Greeks understood that
-word ([Greek: erythros] ἐρυθρός, Red).]
+word ([Greek: erythros] ἐρυθρός, Red).]
 
 [Footnote 286: Triarius, the legatus of Lucullus, had been defeated
 three years before by Mithridates. See the Life of Lucullus, c. 35;
@@ -10655,7 +10684,7 @@ situated in 36° 12' N. lat. on the south bank of the Orontes, a river
 which enters the sea south of the Gulf of Scanderoon.]
 
 [Footnote 291: The meaning of the original is obscure. The word is
-[Greek: to imation] τὸ ιμάτιον, which ought to signify his vest or
+[Greek: to imation] τὸ ιμάτιον, which ought to signify his vest or
 toga. Some critics take it to mean a kind of handkerchief used by sick
 persons and those of effeminate habits; and they say it was also used
 by persons when travelling, as a cover for the head, which the Greeks
@@ -10671,9 +10700,9 @@ that "Plutarch does not say that Pompeius built his house near his
 theatre, but that he built it in addition to his theatre and at the
 same time, as Donatus had perceived, De Urbe Roma, 3, 8, in Græv.
 Thes. T. 3, p. 695." But Drumann is probably mistaken. There is no
-great propriety in the word [Greek: epholkion] ἐφόλκιον unless the
+great propriety in the word [Greek: epholkion] ἐφόλκιον unless the
 house was near the theatre, and the word [Greek: paretektênato]
-παρετεκτήνατο rather implies 'proximity,' than 'in addition to.'
+παρετεκτήνατο rather implies 'proximity,' than 'in addition to.'
 
 This was the first permanent theatre that Rome had. It was built
 partly on the model of that of Mitylene and it was opened in the year
@@ -10726,7 +10755,7 @@ which Cicero was consul.
 The text of the last sentence in this chapter is corrupt; and the
 meaning is uncertain.]
 
-[Footnote 297: [Greek: to nemesêton] τὸ νεμέσητον.]
+[Footnote 297: [Greek: to nemesêton] τὸ νεμέσητον.]
 
 [Footnote 298: The body of Mithridates was interred at Sinope.
 Appianus (_Mithridatic War_, c. 113) says that Pharnakes sent the dead
@@ -10734,7 +10763,7 @@ body of his father in a galley to Pompeius to Sinope, and also those
 who had killed Manius Aquilius, and many hostages Greeks and
 barbarians. There might be some doubt about the meaning of the words
 'many corpses of members of the royal family' [Greek: polla sômata tôn
-basilikôn] πολλα σώματα τῶν βασιλικῶν but Plutarch appears from the
+basilikôn] πολλα σώματα τῶν βασιλικῶν but Plutarch appears from the
 context to mean dead bodies. Two of the daughters of Mithridates who
 were with him when he died, are mentioned by Appianus (c. 111) as
 having taken poison at the same time with their father. The poison
@@ -10769,7 +10798,7 @@ respect by Octavianus Cæsar (Dion Cassius, 51. c. 2; Drumann,
 _Geschichte Roms_, Pompeii, p. 557).]
 
 [Footnote 303: Here and elsewhere I have used Plutarch's word [Greek:
-monarchia] μοναρχία, 'The government of one man,' by which he means
+monarchia] μοναρχία, 'The government of one man,' by which he means
 the Dictatorship, in some passages at least.]
 
 [Footnote 304: He landed in Italy B.C. 62, during the consulship of D.
@@ -10859,7 +10888,7 @@ last caused him to be forbidden the house of Augustus. (Seneca, _De
 Ira_, iii. 23.) He burnt some of his historical writings, but not all
 of them, for Plutarch here refers to his authority. Horatius (1 _Ep_.
 19. v. 15) alludes to Timagenes. (See Suidas, [Greek: Timagenês]
-Τιμαγένης.)]
+Τιμαγένης.)]
 
 [Footnote 320: See the Life of Cæsar, c. 15, and as to the conference
 at Luca, c. 21. The conference took place B.C. 56, when Marcellinus
@@ -10889,14 +10918,14 @@ I have incorrectly called this Tribune Titus.]
 
 [Footnote 325: Plutarch must mean that Crassus left Rome before the
 expiration of his consulship B.C. 55; but the words [Greek: apallageis
-tês hupateias] ἀπαλλαγεὶς τῆς ὑπατείας are in themselves doubtful.
+tês hupateias] ἀπαλλαγεὶς τῆς ὑπατείας are in themselves doubtful.
 (Life of Crassus, c. 16.)]
 
 [Footnote 326: Drumann (_Geschichte Roms_, Pompeii, p. 524) has
 diligently collected all the circumstances of this magnificent
 exhibition. (See also Dion Cassius, 39. c. 38, and the references in
 the notes of Reimarus.) The elephant-fight ([Greek: elphantomachia]
-ἐλφαντομαχία) was a fight between the elephants and armed Gætulians.
+ἐλφαντομαχία) was a fight between the elephants and armed Gætulians.
 There were eighteen elephants. The cries of the animals when they were
 wounded moved the pity of the spectators. The elephants would not
 enter the vessels when they were leaving Africa, till they received a
@@ -10932,7 +10961,7 @@ Pulcher (See the Life of Cæsar. c. 23.) Crassus lost his life B.C.
 [Footnote 329: Cn. Domitius Calvinus and M. Valerius Messala, the
 consuls of B.C. 53, were not elected till seven months after the
 proper time, so that there was during this time an anarchy [Greek:
-anarchia] ἀναρχία, which is Plutarch's word). This term 'anarchy' must
+anarchia] ἀναρχία, which is Plutarch's word). This term 'anarchy' must
 be taken in its literal and primary sense of a time when there were no
 magistrates, which would be accompanied with anarchy in the modern
 sense of the term. Dion Cassius (40. c. 45) describes this period of
@@ -10955,10 +10984,10 @@ suspicious, because she married Pompeius the year after. If Cornelia
 were the only woman that was ever said to have done so, we might doubt
 the story; but as she is not, we need not suspect it on that account.]
 
-[Footnote 332: Corruption is [Greek: dorodokia] δοροδοκία in Plutarch,
+[Footnote 332: Corruption is [Greek: dorodokia] δοροδοκία in Plutarch,
 'gift receiving,' and it ought to correspond to the Roman Peculatus.
-But [Greek: dorodokia] δοροδοκία also means corruption by bribes.
-Bribery is [Greek: dekasmos] δεκασμός in Plutarch, which is expressed
+But [Greek: dorodokia] δοροδοκία also means corruption by bribes.
+Bribery is [Greek: dekasmos] δεκασμός in Plutarch, which is expressed
 generally by the Roman Ambitus, and specially by the verb 'decuriare.'
 (See Cicero's Oration Pro Cn. Plancio, Ed. Wunder.) The offence of
 Scipio was Ambitus. (Dion Cassius, 40. c. 51, &c.; Appianus, _Civil
@@ -11000,7 +11029,7 @@ Marcellus (B.C. 50) gave both these legions to Pompeius.]
 [Footnote 337: L. Æmilius Paulus was consul B.C. 50, with C. Claudius
 Marcellus a violent opponent of Cæsar. He built the Basilica Pauli
 (Appianus, _Civil Wars_, ii. 26). Basilica is a Greek word ([Greek:
-basilikê] βασιλική); a basilica was used as a court of law, and a
+basilikê] βασιλική); a basilica was used as a court of law, and a
 place of business for merchants. The form of a Roman basilica is known
 from the description of Vitruvius (v. 1), the ground-plan of two
 Basilicæ at Rome, and that of Pompeii which is in better preservation.
@@ -11154,7 +11183,7 @@ Plutarch here.
 
 'On the third day.' Cæsar (_Civil War_, iii. 10) says 'triduo
 proximo," and the correction of Moses du Soul, [Greek: hêmera rhêtê]
-ἡμέρα ῥητῆ, is therefore unnecessary. Pompeius had moved westward from
+ἡμέρα ῥητῆ, is therefore unnecessary. Pompeius had moved westward from
 Thessalonica at the time when Rufus was sent to him, and was in
 Candavia on his road to Apollonia and Dyrrachium (Cæsar, _Civil War_,
 iii. 11).]
@@ -14319,7 +14348,7 @@ with the thumb and the little finger.]
 gave the name of ocean to the sea by which they believed that their
 world was surrounded.]
 
-[Footnote 424: [Greek: daktylos] δάκτυλος, the shortest Greek measure,
+[Footnote 424: [Greek: daktylos] δάκτυλος, the shortest Greek measure,
 a finger's breadth, about 7/20 of an inch. The modern Greek seamen
 measure the distance of the sun from the horizon by fingers' breadths.
 Newton's 'Halicarnassus.' (Liddell & Scott, s.v.)]
@@ -14349,7 +14378,7 @@ capital city was Persepolis, near the modern city of Schiraz.]
 [Footnote 430: The capital of Macedonia, Alexander's native city.]
 
 [Footnote 431: [Greek: chous] χοῦς a liquid measure containing 12
-[Greek: kotulai] κοτύλαι of 5.46 pints apiece.]
+[Greek: kotulai] κοτύλαι of 5.46 pints apiece.]
 
 [Footnote 432: The Greek word hero means a semi-divine personage, who
 was worshipped, though with less elaborate ritual than a god.]
@@ -16828,12 +16857,12 @@ events in this chapter belong to B.C. 55, when Cn. Pompeius Magnus and
 M. Licinius Crassus were consuls for the second time.]
 
 [Footnote 494: Cæsar, iv. c. 12. Plutarch here calls the Commentaries
-[Greek: ephêmerides] ἐφημερίδες, which means a Diary or Day-book. The
-proper Greek word would be [Greek: hypomnêmata] ὑπομνήματα. Kaltwasser
+[Greek: ephêmerides] ἐφημερίδες, which means a Diary or Day-book. The
+proper Greek word would be [Greek: hypomnêmata] ὑπομνήματα. Kaltwasser
 accordingly concludes that Plutarah appears to have confounded the
 Ephemerides and the Commentarii, or at least to have used the word
-[Greek: ephêmerides] ἐφημερίδες improperly instead of [Greek:
-hypomnêmata] ὑπομνήματα. There is no proof that Cæsar kept a diary.
+[Greek: ephêmerides] ἐφημερίδες improperly instead of [Greek:
+hypomnêmata] ὑπομνήματα. There is no proof that Cæsar kept a diary.
 That kind of labour is suited to men of a different stamp from him.
 Plutarch means the Commentarii. It is true that Servius (_Ad Æneid._
 xi. 743) speaks of a diary (Ephemeris) of Cæsar, which records his
@@ -17218,7 +17247,7 @@ _Civil War_, iii. 55.)]
 [Footnote 539: See the Life of Pompeius, c. 71.]
 
 [Footnote 540: I have omitted the unmeaning words [Greek: ê dia theias
-hêttês tethambêmenos] ἢ διὰ θείας ἥττης τεθαμβημένος. See the note of
+hêttês tethambêmenos] ἢ διὰ θείας ἥττης τεθαμβημένος. See the note of
 Sintenis.]
 
 [Footnote 541: These words of Cæsar are also reported by Suetonius
@@ -17451,7 +17480,7 @@ of Kleopatra, appeared in the Egyptian triumph in chains.]
 [Footnote 570: See the Life of Sulla, c. 16 notes; and Dion Cassius,
 51. c. 15.]
 
-[Footnote 571: Plutarch has the word [Greek: triklinos] τρίκλινος. The
+[Footnote 571: Plutarch has the word [Greek: triklinos] τρίκλινος. The
 Latin form is triclinium, a couch which would accomodate three persons
 at table. The word is of Greek origin, and simply means a place which
 will allow three persons to recline upon it. As triclinia were placed
@@ -17661,7 +17690,7 @@ intercalary days which came next after that year, three being the
 number of days in excess that had been intercalated. For the future
 the rule of Cæsar was correctly interpreted. Dion Cassius in
 expressing the rule as to intercalation uses the phrase, [Greek: dia
-pente etôn] διὰ πέντε ἐτῶν.
+pente etôn] διὰ πέντε ἐτῶν.
 
 The subject of Cæsar's reformation is explained in the notes to Dion
 Cassius (43. c. 26), ed. Reimarus, and in the article Calendar
@@ -17792,7 +17821,7 @@ about the particulars of this circumstance. Compare Dion Cassius, 44.
 c. 18.]
 
 [Footnote 607: According to Dion Cassius (41. c. 52) the Senate was
-assembled in the curia ([Greek: synedrion] συνέδριον), which Pompeius
+assembled in the curia ([Greek: synedrion] συνέδριον), which Pompeius
 had built.]
 
 [Footnote 608: The two sects of Greek philosophy that had most
@@ -19114,7 +19143,7 @@ exactly the same.
 FOOTNOTES:
 
 [Footnote 622: Cic. ad Att. ii. 1. Dicit enim tanquam in Platonis
-[Greek: politeia] πολιτέιᾳ non tanquam in fæce Romuli sententiam. I
+[Greek: politeia] πολιτέιᾳ non tanquam in fæce Romuli sententiam. I
 have translated Plutarch literally, though I have no doubt that the
 occasion to which he alludes (which is not mentioned by Cicero, l.c.)
 is that of the election to the prætorship, B.C. 55, when the worthless
@@ -19122,7 +19151,7 @@ adventurer Vatinius was preferred to Cato. M. Cato in petitione
 præturæ, prælato Vatinio, repulsam tulit. Liv. Epit. cv. See also Val.
 Max. vii. 5, and Merivale's 'History of the Romans,' vol. i. ch. ix.
 
-The word [Greek: hupateia] ὑπατεία is always used by Plutarch as the
+The word [Greek: hupateia] ὑπατεία is always used by Plutarch as the
 Greek equivalent for the Roman title of consul.]
 
 [Footnote 623: This saying of his is mentioned in the 'Life of
@@ -19174,7 +19203,7 @@ Diodorus, xvii. 15.]
 [Footnote 632: A quarter of Athens, probably south of the Acropolis.
 See Lieut.-Col. Leake's 'Topography of Athens,' sect. iv.]
 
-[Footnote 633: The original is [Greek: apobatês] ἀποβάτης, which
+[Footnote 633: The original is [Greek: apobatês] ἀποβάτης, which
 corresponds to the Latin desultor, meaning one who rode several
 horses, leaping from one to the other.]
 
@@ -19195,10 +19224,10 @@ which Leosthenes perished.]
 [Footnote 637: [Greek: Hêbê] Ἥβη, the word here used, means the time
 just before manhood, from about fourteen to twenty years of age; at
 Sparta it was fixed at eighteen, so that of [Greek: hoi deka aph'
-hêbês] οἱ δέκα ἀφ' ἥβης were men of twenty-eight, [Greek: hoi
-tettarakonta aph' hêbês] οἱ τετταράκοντα ἀφ' ἥβης men of fifty-eight,
+hêbês] οἱ δέκα ἀφ' ἥβης were men of twenty-eight, [Greek: hoi
+tettarakonta aph' hêbês] οἱ τετταράκοντα ἀφ' ἥβης men of fifty-eight,
 &c. Xen. Hell. 3. 4, 23. Liddell and Scott. Here, therefore, [Greek:
-hoi achri heksêkonta aph' hêbês] οἱ ἄχρι ἑκσήκοντα ἀφ' ἥβης must mean
+hoi achri heksêkonta aph' hêbês] οἱ ἄχρι ἑκσήκοντα ἀφ' ἥβης must mean
 all citizens under about seventy-five years of age.]
 
 [Footnote 638: Rhamnus was a demus of Attica, situated on a small
@@ -21455,8 +21484,8 @@ B.C. 95.]
 
 [Footnote 654: The text of Plutarch says that Livius Drusus was the
 uncle of Cato's mother, but this is a mistake, and accordingly
-Xylander proposed to read [Greek: theio men onti pros tês mêtros] θείο
-μὲν ὄντι πρὸς τῆς μητρός. But Sintenis supposes that Plutarch may have
+Xylander proposed to read [Greek: theio men onti pros tês mêtros] θείο
+μὲν ὄντι πρὸς τῆς μητρός. But Sintenis supposes that Plutarch may have
 misunderstood the Roman expression "avunculus maternus." Cato's father
 had by his wife Livia a daughter Porcia, who married J. Domitius
 Ahenobarbus. Livia's second husband was Q. Servilius Cæpio, by whom
@@ -21465,7 +21494,7 @@ and two daughters, named Servilia, one of whom married M. Junius
 Brutus, the father of the Brutus who was one of Cæsar's assassins, and
 the other married L. Licinius Lucullus (Life of Lucullus. c. 38).]
 
-[Footnote 655: The word is [Greek: anamnêstikous] ἀναμνηστικούς. The
+[Footnote 655: The word is [Greek: anamnêstikous] ἀναμνηστικούς. The
 meaning of Plutarch is perhaps not quite clear. See the note in
 Schaefer's edition.]
 
@@ -21616,7 +21645,7 @@ translators to mean that Catulus ran the risk of being degraded from
 his office, is correctly translated and explained by Kaltwasser. Cato
 hinted that the officers of the Court would turn Catulus out, if he
 continued to act as he did. Plutarch has told the same story in his
-treatise [Greek: peri dusopias] περὶ δυσοπίας, _De Vitioso Pudore_ c.
+treatise [Greek: peri dusopias] περὶ δυσοπίας, _De Vitioso Pudore_ c.
 13, to which Kaltwasser refers.]
 
 [Footnote 682: He may be C. Claudius Marcellus afterwards consul B.C.
@@ -21665,7 +21694,7 @@ probably the husband of Servilia at this time.]
 
 [Footnote 690: Short-hand writers were called by the Romans "actuarii"
 and "notarii," of which last word Plutarch's word ([Greek:
-sêmeiographoi] σημειόγραφοι) is a translation. It is not likely that
+sêmeiographoi] σημειόγραφοι) is a translation. It is not likely that
 short-hand writing was invented for the occasion, as Plutarch says.
 Under the empire short-hand writers are often mentioned.]
 
@@ -21713,9 +21742,9 @@ c. 2. The temple was on the south side of the Forum Romanum. The steps
 are those which led to the Rostra.]
 
 [Footnote 697: This is the translation of the reading [Greek:
-oikothen] οίκοθεν, which is probably incorrect. Solanus proposes
-[Greek: autothen] αὐτόθεν, and Kaltwasser proposes [Greek: apothen]
-ἀπόθεν, "from a distance," which he has adopted in his version, "und
+oikothen] οίκοθεν, which is probably incorrect. Solanus proposes
+[Greek: autothen] αὐτόθεν, and Kaltwasser proposes [Greek: apothen]
+ἀπόθεν, "from a distance," which he has adopted in his version, "und
 liess die bewaffneten, die _von fern_ standen, mit furchbarem Geschre*
 anrücken."]
 
@@ -21796,7 +21825,7 @@ Cyprus and partly in other persons' names. He was a merciless usurer.
 
 [Footnote 713: Plutarch explains in a general way what is meant. The
 Roman word "pignus," which Plutarch translates by [Greek: enechyra]
-ἐνέχυρα, means a thing pawned and delivered as a security to the
+ἐνέχυρα, means a thing pawned and delivered as a security to the
 pawnee. To take pledges, "pignora capere," was to seize something that
 belonged to a man in order to compel the discharge of a duty. It was
 like a distress for a service. Instances occur in Livy (3. c. 38, 37.
@@ -21866,7 +21895,7 @@ calculated occasionally to cause a translator to make a slip, even
 when he knows better. The "tribunal" was the seat of the prætor, when
 he was doing justice. But lower down (line 8 from the bottom) Rostra
 is the proper translation of Plutarch's word ([Greek: epilabesthai tôn
-embolon] ἐπιλαβέσθαι τῶν ἐμβόλον) and it was the place from which Cato
+embolon] ἐπιλαβέσθαι τῶν ἐμβόλον) and it was the place from which Cato
 spoke, after he had got up. In c. 43, when Cato gets up to speak,
 Plutarch makes him mount the Bema ([Greek: bêma] βῆμα), by which he
 means the place when the orators stood at the Rostra. The Rostra were
@@ -21916,7 +21945,7 @@ and the translation is merely a guess at the meaning. Favonius was
 ædile in B.C. 53 (Dion Cassius, 40. c. 45).]
 
 [Footnote 729: Some apology is necessary for translating "pears "
-([Greek: apious] ἀπίους, in the original said to mean "pears") into
+([Greek: apious] ἀπίους, in the original said to mean "pears") into
 "parsley." The context shows clearly enough that pears are not meant.
 Kaltwasser has made the "pears" into "celery," and there is just as
 good reason for making "parsley" of them. Plutarch may have
@@ -21969,7 +21998,7 @@ possession after the estate of Hortensius was determined by her
 death.]
 
 [Footnote 738: The quotation is from the Hercules [Greek: Heraklês
-mainomenos] Ἡρακλῆς μαινόμενος of Euripides (v. 173), one of the
+mainomenos] Ἡρακλῆς μαινόμενος of Euripides (v. 173), one of the
 extant plays.]
 
 [Footnote 739: See Life of Cæsar, c. 72.]
@@ -21983,7 +22012,7 @@ meaning of Plutarch may easily be conjectured (Drumann, _Porcii_, p.
 c. 39.]
 
 [Footnote 742: Cn. Pompeius, the elder son of Pompeius Magnus is
-meant. It is conjectured that the word "young" ([Greek: neon] νέον)
+meant. It is conjectured that the word "young" ([Greek: neon] νέον)
 has fallen out of the text (compare c. 58). He had been sent by his
 father to get ships, and he arrived with an Egyptian fleet on the
 coast of Epirus shortly before the battle of Pharsalus. On the news of
@@ -22027,8 +22056,8 @@ references in the notes.]
 57. This Scipio was unworthy of the name and unequal to the times.]
 
 [Footnote 749: The Greek writers represent the name in different ways.
-Plutarch writes [Greek: Itukê] Ἰτύκη. Dion Cassius writes it [Greek:
-Outikê] Οὐτική. This old Phœnician city was on the coast near the
+Plutarch writes [Greek: Itukê] Ἰτύκη. Dion Cassius writes it [Greek:
+Outikê] Οὐτική. This old Phœnician city was on the coast near the
 mouth of the river Bagradas; but its supposed remains are some
 distance inland. (Shaw's _Travels in Barbary_, &c., p. 79, 4to.
 edition.)]
@@ -22074,7 +22103,7 @@ Anticatones.]
 [Footnote 755: This was P. Licinius Crassus Junianus, a Junius who had
 been adopted by a Crassus, as the name shows.]
 
-[Footnote 756: [Greek: êdê d' ornithes êdon] ήδη δ' ὄρνιθες ηδον. The
+[Footnote 756: [Greek: êdê d' ornithes êdon] ήδη δ' ὄρνιθες ηδον. The
 translators do not agree about these words. Dacier and others
 translate them literally, as I have done. Kaltwasser translated them,
 "and already the cocks crowed." He adds that the other translation is
@@ -22116,4 +22145,371 @@ END OF VOL. III.
 LONDON: PRINTED BY WM. CLOWES AND SONS, LIMITED STAMFORD STREET AND
 CHARING CROSS.
 
-*** END OF THE PROJECT GUTENBERG EBOOK 14140 ***
+
+
+
+
+
+End of Project Gutenberg's Plutarch's Lives Volume III., by Plutarch
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PLUTARCH'S LIVES VOLUME III. ***
+
+***** This file should be named 14140-0.txt or 14140-0.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/4/1/4/14140/
+
+Produced by Jonathan Ingram, Stephen Schulze and the PG Online
+Distributed Proofreading Team.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
